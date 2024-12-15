@@ -11,8 +11,8 @@ Hi there! I'm Pedro, a passionate dev, who likes to study different tools and em
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Vue](https://img.shields.io/badge/-VueJs-007ACC?style=flat-square&logo=vuedotjs)
-![.NET](https://img.shields.io/badge/-DotNet-563D7C?style=flat-square&logo=dotnet)
+![Vue](https://img.shields.io/badge/-Vue-007ACC?style=flat-square&logo=vuedotjs)
+![.NET](https://img.shields.io/badge/-.Net-563D7C?style=flat-square&logo=dotnet)
 
 Please, feel free to contact me at:
 
